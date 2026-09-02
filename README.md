@@ -3,8 +3,6 @@
 Julia implementation for detecting Lagrangian rotating contracting structures
 (LRCS) in unsteady two-dimensional velocity fields.
 
-**Author:** Francisco J. Beron-Vera  
-University of Miami
 
 LRCS are material regions combining:
 
@@ -22,6 +20,12 @@ F. J. Beron-Vera (2026),
 *Chaos*, submitted.
 
 Preprint: https://arxiv.org/abs/2604.25036
+
+---
+
+## Author
+
+Francisco J. Beron-Vera
 
 ---
 
