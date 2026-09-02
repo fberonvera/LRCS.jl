@@ -259,7 +259,7 @@ detection strategy, and scientific design are those of the author.
 
 ---
 
-## License
+## Status
 
-MIT License.
+This repository accompanies ongoing research and is currently under development. Numerical parameters and interfaces may continue to evolve as the implementation is tested across additional velocity fields.
 
